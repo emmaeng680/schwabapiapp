@@ -135,5 +135,5 @@ pip install . && python example/example.py
 
 ### Deployment
 
-Bumping the version number in `setup.py` will automatically trigger a deployment that must be approved by itsjafer@.
+Bumping the version number in `setup.py` will automatically trigger a deployment that must be approved by @emmaeng680.
 
